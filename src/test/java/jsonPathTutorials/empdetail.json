@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "firstName": "Ramesh",
+      "lastName": "Jackon",
+      "gender": "male",
+      "age": 24,
+      "email": "ramesh@gmail.com",
+      "isMarried": true
+    },
+    {
+      "id": 2,
+      "firstName": "Sikha",
+      "lastName": "Jha",
+      "gender": "female",
+      "age": 19,
+      "email": "sikha@gmail.com",
+      "isMarried": false
+    },
+    {
+      "id": 3,
+      "firstName": "Sheetal",
+      "lastName": "Rani",
+      "gender": "female",
+      "age": 35,
+      "email": "sheetal@gmail.com",
+      "isMarried": true
+    },
+    {
+      "id": 4,
+      "firstName": "Subhash",
+      "lastName": "Lakhan",
+      "gender": "male",
+      "age": 42,
+      "email": "subhash@gmail.com",
+      "isMarried": true
+    },
+    {
+      "id": 5,
+      "firstName": "Gagan",
+      "lastName": "Malhotra",
+      "gender": "male",
+      "age": 26,
+      "email": "gagan@gmail.com",
+      "isMarried": false
+    },
+    {
+      "id": 6,
+      "firstName": "Priya",
+      "lastName": "Mishra",
+      "gender": "female",
+      "age": 42,
+      "email": "priya@gmail.com",
+      "isMarried": true
+    },
+    {
+      "id": 7,
+      "firstName": "Gurupriya",
+      "lastName": "acharya",
+      "gender": "female",
+      "age": 29,
+      "email": "gurupriya@gmail.com",
+      "isMarried": true
+    },
+    {
+      "id": 8,
+      "firstName": "Shivani",
+      "lastName": "Jadon",
+      "gender": "female",
+      "age": 78,
+      "email": "shivani@gmail.com",
+      "isMarried": true
+    }
+  ]
+}
